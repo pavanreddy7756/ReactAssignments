@@ -1,0 +1,2 @@
+1.Keys are unique identifiers used in React to differentiate individual items in lists.
+2.They can be used in array with repeated elements. as we can set their index value as their key.

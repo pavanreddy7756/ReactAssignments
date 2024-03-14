@@ -1,0 +1,1 @@
+We can display images in React js by using <img src=""/> tag. we can either use url of image that is hosted on some server. or we can save the images in images folder which we have to create in public folder and then give reference to it in "src" attribute.
